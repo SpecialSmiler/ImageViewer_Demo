@@ -55,6 +55,7 @@ private:
 
 };
 
+// View is useful if there are multiple graphics view to show.
 class View : public QFrame
 {
     Q_OBJECT
